@@ -3,6 +3,7 @@
 Searching Algorithms-
         -Linear Search
         -Binary Search
+        
 Sorting Algorithms-
         -Insertion Sort
         -Selection Sort
